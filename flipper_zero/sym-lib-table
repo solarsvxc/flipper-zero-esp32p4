@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Radio_Module")(type "KiCad")(uri "${KIPRJMOD}/Radio_Module.kicad_sym")(options "")(descr "Project radio module connector symbols"))
+  (lib (name "ESP32-P4-Core-DEV-KIT")(type "KiCad")(uri "${KIPRJMOD}/ESP32-P4-Core-DEV-KIT.kicad_sym")(options "")(descr "Waveshare ESP32-P4-Core-DEV-KIT"))
+  (lib (name "Module_Boards")(type "KiCad")(uri "${KIPRJMOD}/Module_Boards.kicad_sym")(options "")(descr "Project module board symbols"))
+)

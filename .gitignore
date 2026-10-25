@@ -1,0 +1,11 @@
+# Local working files
+.planning/
+tmp/
+**/.history/
+
+# KiCad local state and backups
+*.kicad_prl
+*.lck
+*.bak
+*-backups/
+_autosave-*

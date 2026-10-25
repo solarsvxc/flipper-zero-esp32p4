@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "ESP32-P4-Core-DEV-KIT")(type "KiCad")(uri "${KIPRJMOD}/ESP32-P4-Core-DEV-KIT.pretty")(options "")(descr "Waveshare ESP32-P4-Core-DEV-KIT carrier footprint"))
+  (lib (name "Module_Boards")(type "KiCad")(uri "${KIPRJMOD}/Module_Boards.pretty")(options "")(descr "Project module board footprints"))
+)
